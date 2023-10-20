@@ -1,0 +1,14 @@
+C:\Users\Kaida\Desktop\URI\Fall2023\Capstone_Novanta\Zebra SDK\CSNovanta1\CSNovanta1\ScannerSDKApplication\bin\Debug\ScannerSDKApplication.exe
+C:\Users\Kaida\Desktop\URI\Fall2023\Capstone_Novanta\Zebra SDK\CSNovanta1\CSNovanta1\ScannerSDKApplication\bin\Debug\ScannerSDKApplication.pdb
+C:\Users\Kaida\Desktop\URI\Fall2023\Capstone_Novanta\Zebra SDK\CSNovanta1\CSNovanta1\ScannerSDKApplication\bin\Debug\CSProxy.dll
+C:\Users\Kaida\Desktop\URI\Fall2023\Capstone_Novanta\Zebra SDK\CSNovanta1\CSNovanta1\ScannerSDKApplication\bin\Debug\Interop.CoreScanner.dll
+C:\Users\Kaida\Desktop\URI\Fall2023\Capstone_Novanta\Zebra SDK\CSNovanta1\CSNovanta1\ScannerSDKApplication\bin\Debug\CSProxy.xml
+C:\Users\Kaida\Desktop\URI\Fall2023\Capstone_Novanta\Zebra SDK\CSNovanta1\CSNovanta1\ScannerSDKApplication\obj\Debug\ScannerSDKApplication.csproj.AssemblyReference.cache
+C:\Users\Kaida\Desktop\URI\Fall2023\Capstone_Novanta\Zebra SDK\CSNovanta1\CSNovanta1\ScannerSDKApplication\obj\Debug\ScannerSDKApplication.Form1.resources
+C:\Users\Kaida\Desktop\URI\Fall2023\Capstone_Novanta\Zebra SDK\CSNovanta1\CSNovanta1\ScannerSDKApplication\obj\Debug\ScannerSDKApplication.Properties.Resources.resources
+C:\Users\Kaida\Desktop\URI\Fall2023\Capstone_Novanta\Zebra SDK\CSNovanta1\CSNovanta1\ScannerSDKApplication\obj\Debug\ScannerSDKApplication.csproj.GenerateResource.cache
+C:\Users\Kaida\Desktop\URI\Fall2023\Capstone_Novanta\Zebra SDK\CSNovanta1\CSNovanta1\ScannerSDKApplication\obj\Debug\ScannerSDKApplication.csproj.CoreCompileInputs.cache
+C:\Users\Kaida\Desktop\URI\Fall2023\Capstone_Novanta\Zebra SDK\CSNovanta1\CSNovanta1\ScannerSDKApplication\obj\Debug\ScannerSDKApplication.csproj.CopyComplete
+C:\Users\Kaida\Desktop\URI\Fall2023\Capstone_Novanta\Zebra SDK\CSNovanta1\CSNovanta1\ScannerSDKApplication\obj\Debug\ScannerSDKApplication.exe
+C:\Users\Kaida\Desktop\URI\Fall2023\Capstone_Novanta\Zebra SDK\CSNovanta1\CSNovanta1\ScannerSDKApplication\obj\Debug\ScannerSDKApplication.pdb
+C:\Users\Kaida\Desktop\URI\Fall2023\Capstone_Novanta\Zebra SDK\CSNovanta1\CSNovanta1\ScannerSDKApplication\obj\Debug\ScannerSDKApplication.Form2.resources
